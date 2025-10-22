@@ -1,8 +1,9 @@
 # Adam James
 
 ## VocalCompare
-A tool for comparing a singer's live performance to their studio recording
-Video Demo: https://www.youtube.com/watch?v=mV6k7wrtUsI
+A tool for comparing a singer's live performance to their studio recording  
+Video Demo: **https://www.youtube.com/watch?v=mV6k7wrtUsI**  
+Github Repo: **https://github.com/adamjames66/VocalCompare**
 ### Features
 - Audio synchronization using Dynamic Time Warping (DTW) algorithm
 - Real-time pitch visualization dashboard
