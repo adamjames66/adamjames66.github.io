@@ -1,1 +1,17 @@
-# adamjames66.github.io
+# Adam James
+
+## VocalCompare
+A tool for comparing a singer's live performance to their studio recording
+Video Demo: https://www.youtube.com/watch?v=mV6k7wrtUsI
+### Features
+- Audio synchronization using Dynamic Time Warping (DTW) algorithm
+- Real-time pitch visualization dashboard
+- Comparison of live performance against reference recordings
+- Video playback with synchronized pitch analysis
+### Technologies Used
+- **Python** - Core programming language
+- **Machine Learning** - Dynamic Time Warping for audio sync
+- **Data Visualization** - Real-time pitch comparison
+- **Audio Processing** - Signal analysis and feature extraction
+
+## 
