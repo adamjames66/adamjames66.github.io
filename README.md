@@ -20,7 +20,7 @@ Github Repo: **https://github.com/adamjames66/VocalCompare**
 
 
 ## Data Visualizations
-<img width="681" height="393" alt="Image" src="https://github.com/user-attachments/assets/7886c7b3-2f20-43d9-a6c1-421a8472c155" /> 
-Average price of property in Greater Victoria
+<img width="681" height="393" alt="Image" src="https://github.com/user-attachments/assets/7886c7b3-2f20-43d9-a6c1-421a8472c155" />   
+
 Data taken from Kaggle
 
