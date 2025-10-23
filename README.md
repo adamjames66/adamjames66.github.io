@@ -20,7 +20,15 @@ Github Repo: **https://github.com/adamjames66/VocalCompare**
 
 
 ## Data Visualizations
-<img width="686" height="436" alt="Image" src="https://github.com/user-attachments/assets/e1e674bd-1f15-4417-9088-4fd1d817ba79" />
+### Tableau - Greater Victoria Average Property Cost
+<img width="686" height="436" alt="Image" src="https://github.com/user-attachments/assets/e1e674bd-1f15-4417-9088-4fd1d817ba79" />    
+
 
 <img width="682" height="438" alt="Image" src="https://github.com/user-attachments/assets/b1f4d68d-624b-4851-b49e-45ee95344e58" />
+With Filters
 
+### Power BI - Data Analyst Jobs Across Canada
+<img width="636" height="361" alt="Image" src="https://github.com/user-attachments/assets/103eabb9-0da0-4c82-b62b-9bed83f295ac" />    
+
+<img width="632" height="357" alt="Image" src="https://github.com/user-attachments/assets/0d9c149c-c392-4239-a9a4-825603decfe8" />
+With Filters
