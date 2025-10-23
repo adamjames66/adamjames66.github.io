@@ -20,7 +20,7 @@ Github Repo: **https://github.com/adamjames66/VocalCompare**
 
 
 ## Data Visualizations
-<img width="681" height="393" alt="Image" src="https://github.com/user-attachments/assets/7886c7b3-2f20-43d9-a6c1-421a8472c155" />   
+<img width="686" height="436" alt="Image" src="https://github.com/user-attachments/assets/e1e674bd-1f15-4417-9088-4fd1d817ba79" />
 
-Data taken from Kaggle
+<img width="682" height="438" alt="Image" src="https://github.com/user-attachments/assets/b1f4d68d-624b-4851-b49e-45ee95344e58" />
 
