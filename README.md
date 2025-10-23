@@ -1,7 +1,7 @@
 # Adam James
 
 ## VocalCompare
-<img width="596" height="325" alt="Image" src="https://github.com/user-attachments/assets/5da6fe3c-0372-4ee7-a3bf-cdc2dd70a0d9" />
+<img width="596" height="325" alt="Image" src="https://github.com/user-attachments/assets/5da6fe3c-0372-4ee7-a3bf-cdc2dd70a0d9" />  
 A tool for comparing a singer's live performance to their studio recording  
   
 Video Demo: **https://www.youtube.com/watch?v=mV6k7wrtUsI**  
