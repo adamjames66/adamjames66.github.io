@@ -39,7 +39,7 @@ Interactive map visualization analyzing real estate trends across Greater Victor
 
 <img width="682" height="438" alt="Image" src="https://github.com/user-attachments/assets/b1f4d68d-624b-4851-b49e-45ee95344e58" />  
 
-Key Insights:  
+Insights:  
 - Clear geographic correlation between location and pricing  
 - Property type drives pricing more than location. For example, Victoria has predominantly apartments and condos, while Oak Bay features mostly detached homes, which explains the significant price difference between municipalities  
 
@@ -49,12 +49,12 @@ Key Insights:
 Built For: University of Victoria Course Project (Feb 2025)  
 
 ### Data Analyst Job Postings Across Canada - **Power BI**
-Comprehensive analysis of 1,542 data analyst job postings across Canada to understand market demand.
+Comprehensive analysis of 1,542 Canadian data analyst job postings (early 2025) to identify salary trends and geographic opportunities for new graduates.   
 <img width="636" height="361" alt="Image" src="https://github.com/user-attachments/assets/103eabb9-0da0-4c82-b62b-9bed83f295ac" />    
 
 <img width="632" height="357" alt="Image" src="https://github.com/user-attachments/assets/0d9c149c-c392-4239-a9a4-825603decfe8" />  
 
-Key Insights:  
+Insights:  
 - Ontario has highest concentration of opportunities with 878, with 403 of them being in Toronto  
 - The average salary for data analyst roles in Canada is $78.79K
 - Saskatchewan has the highest average salary for data analyst roles in Canada at $86.22k (16 postings)
