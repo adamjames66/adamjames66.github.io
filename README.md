@@ -2,13 +2,10 @@
 Vancouver, BC | adamfergusonjames@gmail.com | (604) 356-6213  
 
 ### About Me
-Recent Computer Science graduate (Data Science minor) with experience 
-building data pipelines, creating interactive visualizations, and 
-delivering actionable insights.
-
-### Technical Skills
-Python • SQL • Tableau • Power BI • Machine Learning • Git • 
-Data Visualization • ETL Pipelines • Azure
+Recent Computer Science graduate with proven experience building data pipelines, designing ETL
+workflows, and developing scalable data infrastructure. Skilled in Python, SQL, and business
+intelligence tools, with a strong foundation in cross-functional collaboration and delivering data
+solutions from conception to production.
 
 ## VocalCompare
 A tool to allow viewers to visually compare a singer's live performance against their studio recording, seeing where they deviate in pitch and identifying intentional creative choices when performing live.    
@@ -39,9 +36,8 @@ Interactive map visualization analyzing real estate trends across Greater Victor
 
 <img width="682" height="438" alt="Image" src="https://github.com/user-attachments/assets/b1f4d68d-624b-4851-b49e-45ee95344e58" />  
 
-Insights:  
-- Clear geographic correlation between location and pricing  
-- Property type drives pricing more than location. For example, Victoria has predominantly apartments and condos, while Oak Bay features mostly detached homes, which explains the significant price difference between municipalities  
+Key Insight:  
+- Why is downtown Victoria less expensive than other municipalities? -> Many properties in Victoria are single/two bedroom condos, whereas many properties outside of Victoria tend to be fully detatched homes.
 
 [Kaggle Real Estate Dataset](https://www.kaggle.com/datasets/amanbhattarai695/data-analyst-job-roles-in-canada)   
 [BC Municipality Geographic Data](https://catalogue.data.gov.bc.ca/dataset/municipalities-legally-defined-administrative-areas-of-bc/resource/0bd8e3d1-4d7f-4db8-a8b2-2cd4cd051074)     
@@ -54,11 +50,8 @@ Comprehensive analysis of 1,542 Canadian data analyst job postings (early 2025) 
 
 <img width="632" height="357" alt="Image" src="https://github.com/user-attachments/assets/0d9c149c-c392-4239-a9a4-825603decfe8" />  
 
-Insights:  
-- Ontario has highest concentration of opportunities with 878, with 403 of them being in Toronto  
-- The average salary for data analyst roles in Canada is $78.79K
-- Saskatchewan has the highest average salary for data analyst roles in Canada at $86.22k (16 postings)
-- There are 738 unique employers hiring for data analyst roles across Canada and 118 of them are in BC  
+Key Insight:  
+- Where should I look for Data Analyst jobs? -> This question depends on what you value, for example Toronto has drastically more positions needing to be filled but Vancouver has a higher average salary. Toronto may be better for entry level roles, while Vancouver may be better for established Data Analysts.
   
 [Kaggle Dataset](https://www.kaggle.com/datasets/amanbhattarai695/data-analyst-job-roles-in-canada)
 
